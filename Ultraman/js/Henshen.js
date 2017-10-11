@@ -1,5 +1,5 @@
 var oUltraman=document.getElementById("Ultraman");
-var oTime=window.setInterval('bigger()',500);
+var oTime=window.setInterval('bigger()',1500);
 var big=40;
 //oUltraman.style.width="10%";
 //oUltraman.style.width="6%";
